@@ -1,0 +1,6 @@
+Petersburg;Moscow;10;20
+Moscow;Kaliningrad;40;35
+Petersburg;Kaliningrad;14;N/A
+Kiev;Moscow;13;8
+Kiev;Kaliningrad;13;8
+Kiev;Petersburg;N/A;20
